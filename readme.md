@@ -1,16 +1,5 @@
-# Three.js Journey
+# Haunted House
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+https://haunted-house-one-sigma.vercel.app
 
-``` bash
-# Install dependencies (only the first time)
-npm install
-
-# Run the local server at localhost:8080
-npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-```
+<img width="437" alt="image" src="https://github.com/dewanshparashar/haunted-house/assets/7558499/c83799b5-3005-4baf-8dd9-8d9bd2e63ac8">
